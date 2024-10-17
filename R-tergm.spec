@@ -7,7 +7,7 @@ Release:          1
 Summary:          Fit, Simulate and Diagnose Models for Network Evoluation
 Group:            Sciences/Mathematics
 License:          GPL-3 + file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_3.1-0.tar.gz
 
 Requires:         R-statnet.common R-ergm R-robustbase R-nlme R-network R-networkDynamic R-coda 
